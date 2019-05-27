@@ -1,0 +1,97 @@
+- name: Buzzeasy
+  href: index.md
+  items:
+    - name: Buzzeasy Portal
+      href:  Buzzeasy_Portal.md
+      items: 
+        - name: Getting Started with Administration
+          href:  Getting_Started_with_Administration.md
+        - name: Introducing the Access Control
+          href:  Introducing_the_Access_Control.md
+          items:
+          - name: User Accounts, Roles and Permissions
+            href:  User_Accounts_Roles_and_Permissions.md
+          - name: Role Assignment and Resource Types
+            href:  Role_Assignment_and_Resource_Types.md
+        - name: Organization - Administration of Companies and Departments
+          href:  Organization_-_Administration_of_Companies_and_Departments.md
+        - name: Management and Administration of Callbacks
+          href:  Management_and_Administration_of_Callbacks.md
+          items:
+          - name: Administration of Contact Centre Numbers
+            href:  Administration_of_Contact_Centre_Numbers.md
+          - name: Administration of Service Queues
+            href:  Administration_of_Service_Queues.md
+          - name: Administration of Callback Slots
+            href:  Administration_of_Callback_Slots_2.md
+          - name: Administration of Callback Slots
+            href:  Administration_of_Callback_Slots.md
+          - name: Administration of Call Pacers
+            href:  Administration_of_Call_Pacers.md
+        - name: SMS Campaigns
+          href:  SMS_Campaigns.md
+          items:
+            - name: Administration of SMS Campaigns
+              href:  Administration_of_SMS_Campaigns.md
+            - name: Campaign Importer
+              href:  Campaign_Importer.md
+        - name: Administration of Surveys
+          href:  Administration_of_Surveys.md
+          items:
+            - name: Campaign Importer for Surveys
+              href:  Campaign_Importer_for_Surveys.md
+            - name: Survey Reports
+              href:  Survey_Reports.md
+        - name: IVRs and In-Queue Callbacks
+          href:  IVRs_and_In-Queue_Callbacks.md
+          items:
+            - name: Designing In-Queue Callbacks and Announcement Groups
+              href:  Designing_In-Queue_Callbacks_and_Announcement_Groups.md
+            - name: Managing Inbound Numbers for In-Queue Callbacks
+              href:  Managing_Inbound_Numbers_for_In-Queue_Callbacks.md
+            - name: List of Announcements
+              href:  List_of_Announcements.md
+            - name: IVR Call Flow
+              href:  IVR_Call_Flow.md
+        - name: Maintenance Management and Administration
+          href:  Maintenance_Management_and_Administration.md
+          items:
+            - name: Email Groups
+              href:  Email_Groups.md
+
+        - name: Administration of Chat Service/Bot
+          href: Administration_of_Chat_Service_Bot.md
+          items:
+            - name: Chat Services
+              href: Chat_Services.md
+            - name: Custom Bots
+              href: Custom_Bots.md
+            - name: FAQ Bot
+              href: FAQ_Bot.md
+            - name: Interaction Template and Questions
+              href: Interaction_Template_and_Questions.md
+            - name: Workflows
+              href: Workflows.md
+            - name: Adding Buzzeasy Chat to your website
+              href: Adding_Buzzeasy_Chat_to_the_website.md
+              items:
+               - name: Adding Standard Buzzeasy Widget to the website
+                 href: Adding_Buzzeasy_Widget_to_the_website.md
+               - name: Build your custom Chat Widget to the website
+                 href: Adding_your_custom_Chat_Widget_to_the_website.md
+
+    - name: How-to articles
+      href:  How-to_articles.md
+      items:
+        - name: How to create a custom bot in Buzzeasy
+          href:  How_to_create_a_custom_bot_in_Buzzeasy.md
+        - name: How to get qna maker subscription key
+          href:  How_to_get_qna_maker_subscription_key.md
+        - name: How to read the wallboard?
+          href:  How_to_read_the_wallboard_.md
+        - name: How to setup Teams Agent Connector
+          href:  How_to_setup_Teams_Agent_Connector.md
+        - name: Provision a new tenant
+          href:  Provision_a_new_tenant.md
+        - name: Setup a Facebook page for Buzzeasy Chat
+          href:  Setup_a_Facebook_page_for_Buzzeasy_Chat.md
