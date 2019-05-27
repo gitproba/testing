@@ -1,11 +1,11 @@
 # Workflows
 
- ### Workflow
+ ## Workflow
 
 Workflows define how chat conversations will be treated throughout their
 lifecycle.
 
- #### General Properties
+ ### General Properties
 
 <table>
 <colgroup>
