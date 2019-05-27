@@ -2,30 +2,12 @@
 
 ## What is Buzzeasy?
 
-Buzzeasy provides a wait-less customer experience in which assistance can be requested with the minimum of customer effort without the need for them to wait on-hold or online. Enhancing the customer journey by providing instantaneous assistance on multiple channels, including Digital, Social Media, SMS, and Voice.
-
-### Multi-channel Chat with AI Enabled Bot
-
-Buzzeasy provides sophisticated orchestration framework to enable chat over various channels like Facebook Messenger, WhatsApp, WebChat, Twitter etc. Our workflow driven bot orchestration gives the flexibility directly to the supervisors without the need of re-coding the bot.
-
-
-### In Queue Callback
-
-The Buzzeasy In-Queue Callback solution enables incoming callers to any contact centre to be offered an automated Callback as an alternative to waiting in the contact centre queue.
-
-### Avaya Omni-channel Contact Centre Agent
-
-For Avaya Communication Manager users, Buzzeasy can provide an extremely cost-effective complementary solution that turns a voice-only contact centre into a multi-channel contact centre. Buzzeasy provides a modern agent interface which combines Avaya voice control with full digital channel management, including chat, SMS, social media, Skype and WhatsApp. Voice agents become multi-channel agents, blending voice calls with these new and emerging digital channels.
-
-
-### Proactive SMS Campaign
-
-Buzzeasy’s proactive SMS Campaign solution allows organisations to reach out to their customers with a compelling, personalised offer to interact. Initiated via an outbound SMS message, the ‘call to action’ could be to set-up a call or a chat. When accepted, Buzzeasy connects the organisation with the customer, seamlessly and automatically.
+Buzzeasy provides a wait-less customer experience in which assistance can be requested with the minimum of customer effort without the need for them to wait on-hold or online. Enhancing the customer journey by providing instantaneous assistance on multiple channels, including Digital, Social Media, SMS, and Voice. 
 
 ## What is the Buzzeasy Portal?
 
 Buzzeasy Portal is an HTML based website created for administration of
-the companies engaged in Buzzeasy customer callback solutions. It has
+the companies engaged in Buzzeasy customer engagement solutions. It has
 the following benefits:
 
 -   A modern and convenient interface
@@ -42,11 +24,8 @@ chapters:
 - Procedures for company administration and configuration  
 
 
-Useful tooltips
-
-Please note that most elements (input fields, check-boxes, lists etc.)
-have intuitive tool-tips on the website. You can read these by hovering
-over them with the cursor.
+> [!TIP]
+> Please note that most elements (input fields, check-boxes, lists etc.) have intuitive tool-tips on the website. You can read these by hovering over them with the cursor.
 
 ## What's Included in this Document?
 
