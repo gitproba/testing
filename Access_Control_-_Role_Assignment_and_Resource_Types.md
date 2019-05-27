@@ -7,7 +7,6 @@ entitling the user with all the permissions defined within the role.
 **Role Assignment**
 
 1.  Navigate to Access Control → Users → Edit → User Roles tab.  
-     
 2.  Choose the preferred user role to be assigned to the user.    
 3.  Click Submit to save the changes.
 
