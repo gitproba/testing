@@ -42,6 +42,7 @@ chapters:
 -   [Maintenance Management and
     Administration](Maintenance_Management_and_Administration.md "Maintenance Management and Administration")
 -   [Administration of Chat Service/Bot](Administration_of_Chat_Service_Bot.md "Administration of Chat Service/Bot")
+-   [How-to articles](How-to-articles.md "How-to articles")
 
 ## Audience
 
