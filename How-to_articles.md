@@ -1,5 +1,7 @@
 # How-to articles
 
+The following articles provide detailed descriptions of configuring specific services.
+
 * [How to create a custom bot in Buzzeasy](How_to_create_a_custom_bot_in_Buzzeasy.md)
 
 * [How to get qna maker subscription key](How_to_get_qna_maker_subscription_key.md)
